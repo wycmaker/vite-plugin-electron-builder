@@ -1,0 +1,31 @@
+{
+  "name": "@wycmaker/vite-plugin-electron-builder",
+  "version": "1.0.0",
+  "description": "a Plugin to Combine Vite and Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wycmaker/vite-plugin-electron-builder.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "electron",
+    "electron-builder",
+    "vite-plugin-electron-builder"
+  ],
+  "author": "Jackson Wang <jackson@stbear.com.tw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wycmaker/vite-plugin-electron-builder/issues"
+  },
+  "homepage": "https://github.com/wycmaker/vite-plugin-electron-builder#readme",
+  "devDependencies": {
+    "electron": "^13.0.0",
+    "electron-builder": "^22.14.13",
+    "vite": "^4.4.5"
+  }
+}
